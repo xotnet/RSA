@@ -21,7 +21,7 @@ Private key: 28183328108153,35644977120917
 Public key: 65537,35644977120917
 
 Encrypted message: 16021720101273
-**Decrypted message:** 99999999
+Decrypted message: 99999999
 ```
 
 
